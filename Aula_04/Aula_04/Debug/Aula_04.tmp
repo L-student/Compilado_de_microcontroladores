@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\lilic\Documents\Atmel Studio\7.0\Aula_04\Aula_04\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\lilic\Documents\Atmel Studio\7.0\Aula_04\Aula_04\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\lilic\Documents\Atmel Studio\7.0\Aula_04\Aula_04\Debug\Aula_04.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Aula_04.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Aula_04.map</FILE>
+  <FILE>Aula_04.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+ </LABELS>
+</ASSEMBLER_INFO>
